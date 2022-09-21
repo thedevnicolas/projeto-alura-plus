@@ -169,3 +169,12 @@ body {
     background-color: var(--botao-azul-efeito);
     color: black;
 }
+
+.rodape__dev .rodape__nome {
+    color: var(--branco-principal);
+    text-decoration: none;
+}
+
+.rodape__nome:hover{
+    color: var(--botao-azul);
+}
