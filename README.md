@@ -7,7 +7,7 @@ Projeto desenvolvido durante a formação HTML+CSS na Alura, consiste em uma pá
 
 ### **Habilidades praticadas** 
 - Estrutura HTML básica;
-- Estilização com CSS, utilizando *FlexBox, Grid, Pseudo-classes hover e active*;
+- Estilização com CSS, utilizando *FlexBox, Grid, Pseudo-classes hover e active*.
 
 ### **O que aprendi?**
 - Reutilizar estilos através das classes dentro da nova section;
